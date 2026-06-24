@@ -23,7 +23,7 @@ import plotly.graph_objects as go
 import google.generativeai as genai
 from fpdf import FPDF
 
-GEMINI_MODEL = "gemini-1.5-flash"
+GEMINI_MODEL = "gemini-2.0-flash"
 
 SYSTEM_PROMPT = """You are a media-literacy assistant helping students evaluate
 the credibility of a news article.
