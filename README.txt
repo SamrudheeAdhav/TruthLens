@@ -2,7 +2,7 @@
         TRUTHLENS — AI FAKE NEWS DETECTOR FOR STUDENTS
 ============================================================
 
-Submitted by  : [YOUR NAME]
+Submitted by  : Samrudhee Dattatray Adhav
 College       : Aurangabad College of Engineering
 Internship    : AI Domain
 Submission    : Final Project
