@@ -2,8 +2,8 @@
 TruthLens -- AI Fake News Detector for Students
 Powered by Google Gemini API (FREE)
 ====================================================
-Developed by: [YOUR NAME]
-College: [YOUR COLLEGE NAME]
+Developed by: Samrudhee Dattatray Adhav
+College: Aurangabad College of Engineering
 Internship Project Submission
 
 SETUP (one time only):
